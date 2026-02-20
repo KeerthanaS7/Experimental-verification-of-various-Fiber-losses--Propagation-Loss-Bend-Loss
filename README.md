@@ -90,13 +90,11 @@ This \(a\) is for **950nm wavelength**.
 5. Record output voltage readings.  
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
----
+
 
 ## TABULATION
-
-![WhatsApp Image 2026-02-11 at 11 21 16 AM](https://github.com/user-attachments/assets/d6d73e0a-8c62-4dd3-94b6-84ff45b34743)
-
-
+<img width="1402" height="896" alt="image" src="https://github.com/user-attachments/assets/c684ca98-310b-439f-bd64-9d09e8cd3775" />
+<img width="1369" height="1600" alt="image" src="https://github.com/user-attachments/assets/eab81e89-4430-4895-b8d1-899e1051692b" />
 
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
